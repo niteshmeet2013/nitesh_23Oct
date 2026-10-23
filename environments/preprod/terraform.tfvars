@@ -15,6 +15,14 @@ rgs = {
     name     = "rg4"
     location = "West US"
   }
+   rg5 = {
+    name     = "rg5"
+    location = "West US"
+  }
+   rg6 = {
+    name     = "rg6"
+    location = "West US"
+  }
 }
 
 storage_accounts = {
